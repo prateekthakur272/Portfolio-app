@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#1B1A1A</color>
+    <color name="yellow">#FFC823</color>
+    <color name="lime">#DAC938</color>
+    <color name="purple">#B99BEF</color>
+    <color name="levender">#D3C0F7</color>
+    <color name="orange">#FF9800</color>
+    <color name="white">#F5F5F5</color>
+    <color name="green">#61FA67</color>
+    <color name="aqua">#35E0F6</color>
+    <color name="brick_red">#D87068</color>
+    <color name="pink">#EA5A8B</color>
+    <color name="teal">#2AC690</color>
+    <color name="blue">#3CA3F4</color>
+</resources>

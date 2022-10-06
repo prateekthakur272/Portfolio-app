@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prateek Thakur</string>
+    <string name="prateek_thakur">Prateek Thakur</string>
+    <string name="android_ios">Android | IOS</string>
+    <string name="about">Hello, i am an Android and IOS developer from Khandwa. I am a student of Medi-Caps University Indore</string>
+    <string name="my_projects">My Projects</string>
+    <string name="my_achievement">My Achievement</string>
+</resources>
